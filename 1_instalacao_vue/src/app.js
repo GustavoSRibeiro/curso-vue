@@ -2,6 +2,7 @@ const MyNameApp = {
     data() {
         return{
             name: "",
+            age: 26,
             input_name: "",
         }
     },
